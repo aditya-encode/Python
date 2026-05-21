@@ -50,16 +50,6 @@ Solutions to HackerRank beginner problems:
 
 ---
 
-## ▶️ How to Run
-
-```bash
-python filename.py
-```
-
-Example:
-```bash
-python basics/loops/randomnumber.py
-```
 
 ## 📈 Current Focus
 
