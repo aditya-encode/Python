@@ -6,20 +6,21 @@ Hi! I'm **Aditya**, and this repo contains all the Python programs I've written 
 
 ```
 C:.
-│   README.md
-│
 ├───basics
-│   ├───loops
-│   ├───strings
-│   ├───lists
+│   ├───debugging
+│   ├───Dictionaries
+│   ├───flow-control
 │   ├───functions
-│   ├───dictionaries
-│   └───debugging
-│
+│   ├───lists
+│   │   └───list_practice
+│   ├───loops
+│   └───strings
 ├───geeks for geeks
+│   ├───Decorator
 │   └───functions
-│
-└───hackerrank
+├───hackerrank
+├───oops
+└───__pycache__
 
 ```
 
@@ -32,21 +33,25 @@ Core Python concepts I practiced:
 - **loops** - infinite loop, random number, stone paper scissors
 - **strings** - pig latin, table printer, bullet points
 - **lists** - matrix screensaver, sorting, list practice questions
+  - **list_practice** - category-wise practice questions (q1–q5, catname)
 - **functions** - collatz sequence, fortune guesser, global variables
-- **dictionaries** - chess project, fantasy game, nested dictionaries
+- **Dictionaries** - chess project, fantasy game, nested dictionaries
 - **flow-control** - conditions and control flow programs
 - **debugging** - logging and debug practice
 
 ### `geeks for geeks/functions/`
-Problems focused on advanced function concepts:
-- `*args` and `**kwargs` practice
-- First-class functions
-- Tail recursion
+Problems focused on advanced Python concepts:
+- **Decorator** - decorator pattern practice
+- **functions** - `*args` and `**kwargs`, first-class functions, tail recursion
 
 ### `hackerrank/`
 Solutions to HackerRank beginner problems:
 - Arithmetic operations
 - Odd/Even number check
+
+### `oops/`
+Object-Oriented Programming practice:
+- Class basics and `__init__` method
 
 ---
 
