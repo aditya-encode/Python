@@ -52,6 +52,10 @@ Solutions to HackerRank beginner problems:
 ### `oops/`
 Object-Oriented Programming practice:
 - Class basics and `__init__` method
+- oops core concepts(inheritance,abstraction,polymorphism,encapsulation) practicals
+- property method and super method usecases
+- getter & setter method for accessing and modifying private attributes.
+- operator overloading(using dunder-method) example to understand polymorphism in detail.
 
 ---
 
