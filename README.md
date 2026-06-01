@@ -5,16 +5,19 @@ Hi! I'm **Aditya**, and this repo contains all the Python programs I've written 
 ## 📁 Folder Structure
 
 ```
-C:.
+D:.
 ├───basics
 │   ├───debugging
 │   ├───Dictionaries
+│   ├───File Operations
 │   ├───flow-control
 │   ├───functions
 │   ├───lists
 │   │   └───list_practice
 │   ├───loops
 │   └───strings
+├───DSA
+│   └───LIsts
 ├───geeks for geeks
 │   ├───Decorator
 │   └───functions
@@ -56,6 +59,10 @@ Object-Oriented Programming practice:
 - property method and super method usecases
 - getter & setter method for accessing and modifying private attributes.
 - operator overloading(using dunder-method) example to understand polymorphism in detail.
+
+### `DSA/`
+Data Structure And Algorithm Practice:
+- **Lists** - Practice questions of list(eg. alternate the number,reverse the array,searching the index etc.)
 
 ---
 
