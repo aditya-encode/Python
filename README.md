@@ -63,6 +63,11 @@ Object-Oriented Programming practice:
 ### `DSA/`
 Data Structure And Algorithm Practice:
 - **Lists** - Practice questions of list(eg. alternate the number,reverse the array,searching the index etc.)
+- **Strings** - binary check and reverse string program
+ **Array** - duplicate checking program
+
+
+
 
 ---
 
